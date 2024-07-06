@@ -16,3 +16,8 @@ Este projeto é um aplicativo web criado para a análise de dados de veículos, 
 1. Certifique-se de que todas as bibliotecas necessárias estão instaladas:
    ```bash
    pip install streamlit pandas plotly
+
+
+## URL do Aplicativo
+
+O aplicativo pode ser acessado no seguinte URL: https://sprint-5-project-9cun.onrender.com
